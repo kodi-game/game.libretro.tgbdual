@@ -9,17 +9,15 @@
 	<extension point="kodi.gameclient"
 			library_@PLATFORM@="@LIBRARY_FILENAME@">
 		<platforms>gb|gbc</platforms>
-		<extensions>gb|gbc|sgb</extensions>
-		<supports_vfs>true</supports_vfs>
+		<extensions></extensions>
+		<supports_vfs>false</supports_vfs>
 		<supports_standalone>false</supports_standalone>
 		<supports_keyboard>false</supports_keyboard>
 		<supports_mouse>false</supports_mouse>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en">Game Boy / Game Boy Color (TGB Dual) v0.8.3</summary>
-		<description>Source: https://github.com/libretro/tgbdual-libretro
-
-Supported files: .gb, .gbc, .sgb</description>
+		<summary lang="en">Game Boy / Game Boy Color (TGB Dual)</summary>
+		<description>Source: https://github.com/libretro/tgbdual-libretro</description>
 		<license>GPLv2</license>
 		<platform>@PLATFORM@</platform>
 		<assets>
