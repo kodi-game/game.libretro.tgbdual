@@ -21,6 +21,7 @@
 Supported files: .gb, .gbc, .sgb</description>
 		<license>GPLv2</license>
 		<platform>@PLATFORM@</platform>
+		<source>https://github.com/kodi-game/game.libretro.tgbdual</source>
 		<assets>
 			<screenshot>resources/screenshot-01.jpg</screenshot>
 			<screenshot>resources/screenshot-02.jpg</screenshot>
