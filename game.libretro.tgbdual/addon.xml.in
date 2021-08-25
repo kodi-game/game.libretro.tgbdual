@@ -15,8 +15,6 @@
 		<supports_standalone>false</supports_standalone>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en_GB">Nintendo - Game Boy / Color (TGB Dual) v0.8.3</summary>
-		<description lang="en_GB">TGB Dual is an open source GB/GBC emulator with game link cable support.</description>
 		<license>GPLv2</license>
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.tgbdual</source>
@@ -25,5 +23,7 @@
 			<screenshot>resources/screenshot-02.jpg</screenshot>
 			<screenshot>resources/screenshot-03.jpg</screenshot>
 		</assets>
+		<summary lang="en_GB">Nintendo - Game Boy / Color (TGB Dual) v0.8.3</summary>
+		<description lang="en_GB">TGB Dual is an open source GB/GBC emulator with game link cable support.</description>
 	</extension>
 </addon>
