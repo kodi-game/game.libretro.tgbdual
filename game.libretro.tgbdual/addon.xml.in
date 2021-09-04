@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.tgbdual"
 		name="Nintendo - Game Boy / Color (TGB Dual)"
-		version="0.8.3.18"
+		version="0.8.3.19"
 		provider-name="GIGO, Hii">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -13,6 +13,7 @@
 		<extensions>gb|dmg|gbc|cgb|sgb</extensions>
 		<supports_vfs>true</supports_vfs>
 		<supports_standalone>false</supports_standalone>
+		<requires_opengl>false</requires_opengl>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<license>GPLv2</license>
