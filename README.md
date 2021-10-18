@@ -1,6 +1,20 @@
-# game.libretro.tgbdual addon for Kodi
-
-This is a [Kodi](http://kodi.tv) game addon for Nintendo - Game Boy / Color (TGB Dual).
-
 [![Build Status](https://travis-ci.org/kodi-game/game.libretro.tgbdual.svg?branch=master)](https://travis-ci.org/kodi-game/game.libretro.tgbdual)
 [![Build Status](https://ci.appveyor.com/api/projects/status/github/kodi-game/game.libretro.tgbdual?svg=true)](https://ci.appveyor.com/project/kodi-game/game-libretro-tgbdual)
+
+# Nintendo - Game Boy / Color (TGB Dual)
+
+### Description
+TGB Dual is an open source GB/GBC emulator with game link cable support.
+
+### License
+GPLv2
+
+### Screenshots
+
+![Screenshot](game.libretro.tgbdual/resources/screenshot-01.jpg)
+
+![Screenshot](game.libretro.tgbdual/resources/screenshot-02.jpg)
+
+![Screenshot](game.libretro.tgbdual/resources/screenshot-03.jpg)
+
+
