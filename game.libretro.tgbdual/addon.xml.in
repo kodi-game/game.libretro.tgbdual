@@ -28,5 +28,6 @@
 		<description lang="da_DK">TGB Dual er en open source GB/GBC-emulator med game link-kabelunderstøttelse.</description>
 		<description lang="en_GB">TGB Dual is an open source GB/GBC emulator with game link cable support.</description>
 		<description lang="ko_KR">TGB Dual은 게임 링크 케이블을 지원하는 오픈 소스 GB/GBC 에뮬레이터입니다.</description>
+		<description lang="zh_CN">TGB Dual 是一款开源 GB/GBC 模拟器，支持游戏链接电缆。</description>
 	</extension>
 </addon>
