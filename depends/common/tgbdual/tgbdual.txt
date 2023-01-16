@@ -1,1 +1,1 @@
-tgbdual https://github.com/libretro/tgbdual-libretro/archive/1e0c4f931d8c5e859e6d3255d67247d7a2987434.tar.gz
+tgbdual https://github.com/libretro/tgbdual-libretro/archive/a6f3018e6a23030afc1873845ee54d4b2d8ec9d3.tar.gz
