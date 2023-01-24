@@ -13,7 +13,7 @@ GPLv2
 
 ### Icon
 
-![Icon](game.libretro.tgbdual/resources/icon.png)
+![Nintendo - Game Boy / Color (TGB Dual) icon](game.libretro.tgbdual/resources/icon.png)
 
 ### Fanart
 
@@ -21,6 +21,6 @@ Help make me fanart!
 
 ### Screenshots
 
-![Screenshot](game.libretro.tgbdual/resources/screenshot-01.jpg)
-![Screenshot](game.libretro.tgbdual/resources/screenshot-02.jpg)
-![Screenshot](game.libretro.tgbdual/resources/screenshot-03.jpg)
+![Nintendo - Game Boy / Color (TGB Dual) screenshot](game.libretro.tgbdual/resources/screenshot-01.jpg)
+![Nintendo - Game Boy / Color (TGB Dual) screenshot](game.libretro.tgbdual/resources/screenshot-02.jpg)
+![Nintendo - Game Boy / Color (TGB Dual) screenshot](game.libretro.tgbdual/resources/screenshot-03.jpg)
