@@ -27,6 +27,7 @@
 		</assets>
 		<summary lang="en_GB">Nintendo - Game Boy / Color (TGB Dual) v0.8.3</summary>
 		<description lang="da_DK">TGB Dual er en open source GB/GBC-emulator med game link-kabelunderstøttelse.</description>
+		<description lang="de_DE">TGB Dual ist ein quelloffener GB/GBC-Emulator mit Game-Link-Kabelunterstützung.</description>
 		<description lang="en_GB">TGB Dual is an open source GB/GBC emulator with game link cable support.</description>
 		<description lang="es_ES">TGB Dual es un emulador GB/GBC de código abierto compatible con el cable game link.</description>
 		<description lang="ko_KR">TGB Dual은 게임 링크 케이블을 지원하는 오픈 소스 GB/GBC 에뮬레이터입니다.</description>
