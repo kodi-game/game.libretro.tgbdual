@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.tgbdual"
 		name="Nintendo - Game Boy / Color (TGB Dual)"
-		version="0.8.3.27"
+		version="0.8.3.28"
 		provider-name="GIGO, Hii">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
