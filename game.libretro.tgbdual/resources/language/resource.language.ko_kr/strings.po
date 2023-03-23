@@ -18,7 +18,7 @@ msgstr ""
 "X-Generator: Weblate 4.8\n"
 
 msgctxt "Addon Summary"
-msgid "Nintendo - Game Boy / Color (TGB Dual) v0.8.3"
+msgid "Nintendo - Game Boy / Color (TGB Dual)"
 msgstr ""
 
 msgctxt "Addon Description"
