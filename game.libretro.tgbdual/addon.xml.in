@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.tgbdual"
 		name="Nintendo - Game Boy / Color (TGB Dual)"
-		version="0.8.3.45"
+		version="0.8.3.46"
 		provider-name="GIGO, Hii">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -9,7 +9,7 @@
 	</requires>
 	<extension point="kodi.gameclient"
 			library_@PLATFORM@="@LIBRARY_FILENAME@">
-		<platforms>gb|gbc</platforms>
+		<platforms>Nintendo - Game Boy / Color</platforms>
 		<extensions>gb|dmg|gbc|cgb|sgb</extensions>
 		<supports_vfs>true</supports_vfs>
 		<supports_standalone>false</supports_standalone>
